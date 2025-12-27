@@ -1,7 +1,12 @@
 # blinky-555
 My custom star shaped Blinky LED 555 chaser time. It demonstrates the practical application of the 555 Timer IC for generating clock pulses and driving an LED chasing pattern.
 The 555 Timer IC is configured in astable mode.
-This is my 2nd project after hackpad so im confided in pcbs. Ty hackclub
+
+This is my 2nd project after hackpad so im confided in pcbs.
+
+The blinking speed of the LEDs is controlled by external resistor capacitor (RC) components, making the circuit easy to modify and experiment with. By adjusting the resistor or capacitor values, the frequency of oscillation can be changed, allowing control over the LED blinking rate.
+
+The project is designed using EasyEDA, and includes complete schematic, PCB layout, Gerber files, and BOM
 
 <img width="731" height="699" alt="pcb 3d" src="https://github.com/user-attachments/assets/31a445be-2d87-4660-a0e8-497912817c16" />
 <img width="882" height="729" alt="3D VIEW front" src="https://github.com/user-attachments/assets/f96cd128-5b14-4140-bf96-507b4d9e3832" />
